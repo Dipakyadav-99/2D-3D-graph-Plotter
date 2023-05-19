@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1610273630 source:c:\users\balaji\documents\opengl project\2dnew\main.cpp
+	<iostream>
+	"Disp.h"
+	"CVECTOR.h"
+	"matrix.h"
+	<cmath>
+	"atmsp.h"
+	<string>
+	<stdio.h>
+	<gl\glut.h>
+
+1607499947 c:\users\balaji\documents\opengl project\2dnew\disp.h
+	<GL/glut.h>
+	<GL/gl.h>
+	<string>
+	<iostream>
+	<cmath>
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\program files (x86)\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1526093414 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
+
+1526093414 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
+1457761712 c:\users\balaji\documents\opengl project\2dnew\cvector.h
+	<cmath>
+	<iostream>
+
+1457761712 c:\users\balaji\documents\opengl project\2dnew\matrix.h
+	<iostream>
+	<cmath>
+
+1610264869 c:\users\balaji\documents\opengl project\2dnew\atmsp.h
+	<string>
+	<csetjmp>
+	<cstdlib>
+	<cmath>
+
